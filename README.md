@@ -1,7 +1,6 @@
 # CODSOFT
----------
+
 This file contains all the task code that was provided for this ineternship.
--------------------------------
 List of Tasks Submitted:
 ------------------------
 1.Simple Chatbot
